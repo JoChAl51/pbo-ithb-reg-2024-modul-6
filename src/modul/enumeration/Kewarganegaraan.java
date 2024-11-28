@@ -1,4 +1,4 @@
-package modul.Enum;
+package modul.enumeration;
 
 public enum Kewarganegaraan {
     WNI, WNA
